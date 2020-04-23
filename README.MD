@@ -20,4 +20,4 @@ Follow the link: [Learn to learn](https://juzlov.github.io/Learn-to-learn/)
 
 ## Demo
 
-![Main page](https://github.com/juzlov/Learn-to-learn/blob/master/images/Learn-to-learn-Demo.png)
+![Main page](https://github.com/juzlov/Learn-to-learn/blob/master/images/Learn-to-learn-Demo.PNG)
