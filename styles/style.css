@@ -218,10 +218,11 @@ link:visited {
 }
 
 .cards {
-    width: 80%;
-    display: flex;
-    flex-wrap: wrap;
-    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 240px);
+    grid-column-gap: 100px;
+    grid-row-gap: 60px;
+    padding-top: 60px;
 }
 
 .item {
