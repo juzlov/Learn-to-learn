@@ -1,5 +1,5 @@
 # Learn to learn
-Learn to learn is **static landing page** developed as part of Yandex-Praktikum training program.
+Learn to learn is **static landing page** developed as part of [Yandex-Praktikum](https://praktikum.yandex.ru/) training program.
 
 Version - v1.0.0
 
